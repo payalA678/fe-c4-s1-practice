@@ -1,0 +1,35 @@
+#header
+{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+}
+#title-block
+{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+#search
+{
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 300px;
+}
+.icon
+{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#home-link
+{
+  text-decoration: none;
+  color: whitesmoke;
+}
+#navbar
+{
+  margin-left: 10px;
+}
+
